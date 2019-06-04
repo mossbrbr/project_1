@@ -1,3 +1,10 @@
 Adding another practice file to become a ninja at GIT and GitHUb.
 
 Just adding more stuff.
+
+Screwed up a bit on my GIT/GitHub refresher on xfile2
+under xa21-infra_1118. I didn't perform a pull request
+from GitHub prior to merging.
+
+Should have run the git push origin master command
+then performed a pull request from GitHub.
